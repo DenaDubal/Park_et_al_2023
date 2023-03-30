@@ -13,7 +13,7 @@ All the codes for RNA seq data analysis are included in the R script file, and w
   Install R and packages
   Download the most recent version of R (https://www.r-project.org). 
   For analysis, use R version 4.2.1 (2022-06-23)
-
+  
   Packages dependencies and versions
   The versions of packages are, specifically:
   ggplot2: 3.4.1
