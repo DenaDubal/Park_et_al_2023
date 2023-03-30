@@ -1,6 +1,4 @@
-# Dubal_Lab
-
-RNA seq analysis
+# Hippocampal RNA seq analysis
 All the codes for RNA seq data analysis are included in the R script file, and we used R version 4.2.1 (2022-06-23) for the analysis.
 
 
