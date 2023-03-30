@@ -5,7 +5,7 @@ All the codes for RNA seq data analysis are included in the R script file, and w
 
 
 1. System requirements
-R is a free software environment for statistical computing and graphics. It compiles and runs on a wide variety of UNIX platforms, Windows and MacOS
+  R is a free software environment for statistical computing and graphics. It compiles and runs on a wide variety of UNIX platforms, Windows and MacOS
 
 2. Installation guide
   Install R and packages
