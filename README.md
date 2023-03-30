@@ -5,9 +5,11 @@ All the codes for RNA seq data analysis are included in the R script file, and w
 
 
 1. System requirements
+  
   R is a free software environment for statistical computing and graphics. It compiles and runs on a wide variety of UNIX platforms, Windows and MacOS
 
 2. Installation guide
+ 
   Install R and packages
   Download the most recent version of R (https://www.r-project.org). 
   For analysis, use R version 4.2.1 (2022-06-23)
@@ -27,7 +29,9 @@ All the codes for RNA seq data analysis are included in the R script file, and w
   Venerable: 3.0
 
 3. Demo 
-For interactive demos, please see the R script (Source Code_PF4_bulk_RNA seq_032723) and review the vignettes built into the packages. They can be accessed as follows in this example: vignette('DESeq2')
+  For interactive demos, please see the R script (Source Code_PF4_bulk_RNA seq_032723) and review the vignettes built into the packages. They can be     
+  accessed as follows in this example: vignette('DESeq2')
 
 4. Instructions for use
-For instructions for the use of the functions, please see the R script (Source Code_PF4_bulk_RNA seq_032723). This will include details of step by step flow for analysis.
+  For instructions for the use of the functions, please see the R script (Source Code_PF4_bulk_RNA seq_032723). This will include details of step by step  
+  flow for analysis.
